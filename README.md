@@ -1,2 +1,3 @@
-# Algorithm
+## Algorithm
 ### Binary Search
+### Bubble Sort
